@@ -5,3 +5,5 @@
 *.dsp
 ihex2fw
 *.dtbo
+
+!am335x-pm-firmware.bin
